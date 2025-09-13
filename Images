@@ -1,5 +1,0 @@
-mkdir images
-touch images/.gitkeep
-git add images/.gitkeep
-git commit -m "Cria pasta images vazia"
-git push origin main
