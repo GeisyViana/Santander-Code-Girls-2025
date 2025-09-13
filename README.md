@@ -8,7 +8,7 @@ O objetivo é consolidar os conhecimentos adquiridos em sala, documentar o proce
 
 ## 📌 Objetivos do Desafio
 
-Ao final deste laboratório, fui capaz de:
+Ao final deste desafio, fui capaz de:
 
 - Aplicar os conceitos aprendidos em um **ambiente prático** utilizando AWS;
 - Documentar processos técnicos de forma **clara e estruturada**;
