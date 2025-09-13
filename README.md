@@ -30,6 +30,6 @@ Esse fluxo garante que o usuário consiga **enviar arquivos**, que são armazena
 
 ```bash
 📦 desafio-ec2-aws
- ┣ 📂 images            # Capturas de tela e diagramas
- ┗ 📜 README.md         # Documentação principal do projeto
+ ┣ 📂 images
+ ┗ 📜 README.md    
 
