@@ -18,9 +18,9 @@ Ao final deste desafio, fui capaz de:
 
 ## 🖥️ Arquitetura Desenvolvida
 
-Abaixo está um diagrama representando a solução prática criada durante o laboratório:
+Abaixo está um diagrama representando a solução prática criada durante o desafio:
 
-![Arquitetura AWS](./images/Captura%20de%20tela%202025-09-09%20212228.png)
+![Arquitetura AWS](images/Diagrama AWS EC2.png)
 
 ### 🔎 Descrição da Arquitetura
 - **Actor (usuário)**: responsável por enviar arquivos para a aplicação hospedada na AWS.  
