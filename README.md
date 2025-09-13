@@ -20,7 +20,7 @@ Ao final deste desafio, fui capaz de:
 
 Abaixo está um diagrama representando a solução prática criada durante o desafio:
 
-![Arquitetura AWS](images/Diagrama AWS EC2.png)
+![Arquitetura AWS](./images/Diagrama%20AWS%20EC2.png)
 
 ### 🔎 Descrição da Arquitetura
 - **Actor (usuário)**: responsável por enviar arquivos para a aplicação hospedada na AWS.  
