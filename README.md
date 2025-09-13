@@ -1,7 +1,7 @@
 # Santander-Code-Girls-2025
 # 🚀 Desafio de Gerenciamento de EC2 na AWS
 
-Este repositório contém minhas anotações, insights e práticas realizadas durante o **Desafio da DIO** sobre **Gerenciamento de Instâncias EC2 na AWS**.  
+Este repositório contém meus insights e práticas realizadas durante o **Desafio da DIO** sobre **Gerenciamento de Instâncias EC2 na AWS**.  
 O objetivo é consolidar os conhecimentos adquiridos em sala, documentar o processo e criar um material de apoio para futuras consultas.
 
 ---
@@ -16,13 +16,7 @@ Ao final deste desafio, fui capaz de:
 
 ---
 
-## 🖥️ Arquitetura Desenvolvida
-
-Abaixo está um diagrama representando a solução prática criada durante o desafio:
-
-![Arquitetura AWS](./images/Diagrama%20AWS%20EC2.png)
-
-### 🔎 Descrição da Arquitetura
+### 🔎 Descrição do Diagrama
 - **Actor (usuário)**: responsável por enviar arquivos para a aplicação hospedada na AWS.  
 - **EC2**: instância responsável por processar os dados recebidos.  
 - **EBS (Volumes D e E)**: utilizados para armazenamento persistente dos arquivos manipulados pela instância.  
