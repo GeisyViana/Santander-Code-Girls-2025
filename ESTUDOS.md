@@ -8,7 +8,7 @@
 
 ## 1. Introdução
 
-Este repositório documenta a experiência de estudo e aplicação prática dos conceitos aprendidos sobre **AWS Step Functions**, serviço da AWS que permite a criação, execução e gerenciamento de workflows automatizados em ambientes serverless.  
+Este repositório documenta a experiência de estudo e dos conceitos aprendidos sobre **AWS Step Functions**, serviço da AWS que permite a criação, execução e gerenciamento de workflows automatizados em ambientes serverless.  
 
 O estudo abrange a compreensão dos elementos essenciais do serviço, sua integração com **AWS Lambda**, o tratamento de erros e a construção de fluxos complexos, incluindo decisões condicionais e execuções paralelas.
 
