@@ -24,7 +24,7 @@ O entregável consiste em um **repositório organizado** que contém **anotaçõ
 * **IAM** (Gerenciamento de permissões e papéis)
 * **AWS CLI** (para execução e testes via terminal)
 
-```
+---
 
 ## 💡 Insights e Aprendizados
 
